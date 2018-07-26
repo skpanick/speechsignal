@@ -497,7 +497,6 @@ footer ul .dropdown-menu li :hover, footer ul .dropdown-menu li :active {
   color: #333;
 }
 footer ul li {
-  padding: 20px;
   font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 footer ul li :hover .dropup {
